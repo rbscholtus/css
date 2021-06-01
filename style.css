@@ -36,6 +36,4 @@ ol {
 ul {
   margin-bottom: 0cm;
 }
-.bgimage {
-  background-image: url("https://rbscholtus.github.io/css/image001b.png");
-}
+td img {display: block;}
