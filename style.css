@@ -36,11 +36,17 @@ ol {
 ul {
   margin-bottom: 0cm;
 }
-td img {display: block;}
-td { 
-    padding: 10px;
+img {
+  border: 0;
+}
+td img {
+  display: block;
+}
+td {
+  padding: 0;
+  vertical-align: top;
 }
 table { 
-    border-spacing: 10px;
+    border-spacing: 0;
     border-collapse: separate;
 }
