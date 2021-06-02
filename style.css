@@ -37,3 +37,10 @@ ul {
   margin-bottom: 0cm;
 }
 td img {display: block;}
+td { 
+    padding: 10px;
+}
+table { 
+    border-spacing: 10px;
+    border-collapse: separate;
+}

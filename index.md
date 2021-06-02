@@ -1,5 +1,14 @@
-style.css
 image001.png
 image001b.png
 image002.png
 image003.png
+slice_0_0.png
+slice_0_1.png
+slice_0_2.png
+slice_1_0.png
+slice_1_1.png
+slice_1_2.png
+slice_2_0.png
+slice_2_1.png
+slice_2_2.png
+style.css
